@@ -7,7 +7,7 @@ See open-source corporate contributions:
 
 Project history: 
 
-[Project History](https://docs.google.com/document/d/1FySLsripvaoQy5W8s6YwjE_UbsaYY5LYR68TzmoxaYg/edit?usp=sharing)
+[Project History](https://davidgayman.com/projects)
 
 Also check out my professional site and profiles:
 
